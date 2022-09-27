@@ -5,12 +5,17 @@ contributor:
     agent_name: Whyte, A. F.
     gutenberg_agent_id: '55045'
     url: http://www.gutenberg.org/2009/agents/55045
+covers:
+- cover_type: archival
+  image_path: 68987-h/images/cover.jpg
 creator:
   author:
     agent_name: François de Callières
     gutenberg_agent_id: '55044'
     url: http://www.gutenberg.org/2009/agents/55044
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68987#On-the-manner-of-negotiating-with-princes-On-the-uses-of-diplomacy-the-choice-of-ministers-an_
 gutenberg_issued: '2022-09-14'
 identifiers:
   gutenberg: '68987'
